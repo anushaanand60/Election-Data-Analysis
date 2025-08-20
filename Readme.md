@@ -39,7 +39,7 @@ This project investigates:
 - Highlights **geographic concentration of power**  
 
 ### Party Representation
-![Party Representation](visualisations/Party_Representation_(%).png)
+![Party Representation](visualisations/Party_Representation.png)
 
 - Independent candidates (**IND**) dominate the landscape  
 - PTI has emerged as a **key institutional hub** since 2018  
